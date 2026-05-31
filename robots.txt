@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://manualarchive.github.io//sitemap.xml
+Sitemap: https://rinnerinri.github.io//sitemap.xml
